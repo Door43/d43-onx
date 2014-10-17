@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[onx:home|Door43 (onx)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-onx|d43-onx repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-onx/archive/master.zip|d43-onx.zip]]
+
+**Recent Changes**
+{{changes>ns = onx}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/onx|Ethnologue data]]
+
